@@ -31,7 +31,7 @@ Note: this is a one-way operation. Once you eject, you can’t go back!
   * Deploy the app using the commant #firebase deploy.
   
 # Requirements.
-- Install node, create a react app, material-ui, numerals and other dependecies according to the needs.
+- Install node, material-ui, numerals and other dependecies according to the needs.
 - Make sure to install Firebase and follow the steps to create and deploy the project.
 
 # Edit and re-deploy 
