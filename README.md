@@ -35,4 +35,4 @@ Note: this is a one-way operation. Once you eject, you can’t go back!
 - Make sure to install Firebase and follow the steps to create and deploy the project.
 
 # Edit and re-deploy 
-- Adter making changes to the code in future, do not forget the 2 commands - to build the production env (npm run build) and to deploy (firebase deploy).
+- After making changes to the code in future, do not forget the 2 commands - to build the production env (npm run build) and to deploy (firebase deploy).
